@@ -141,7 +141,7 @@ metaDescription: "Meta Description Tag for this page"
 
 Canonical URLs are generated automatically.
 
-## ☁️ Deploy
+<!-- ## ☁️ Deploy
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/altum-lab/hynix-standard)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/altum-lab/hynix-standard) -->
 
